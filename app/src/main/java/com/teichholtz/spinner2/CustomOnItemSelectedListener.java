@@ -1,6 +1,6 @@
 package com.teichholtz.spinner2;
 
-
+// probably want to tie the text box in.
 import android.view.View;
 import android.widget.AdapterView;
 import android.widget.AdapterView.OnItemSelectedListener;
