@@ -1,15 +1,35 @@
 <resources>
-    <string name="app_name">Spinner2</string>
+    <string name="app_name">Conference</string>
     <string name="country_prompt">Choose a country</string>
 
     <string-array name="country_arrays">
-        <item>Malaysia</item>
-        <item>United States</item>
-        <item>Indonesia</item>
-        <item>France</item>
-        <item>Italy</item>
-        <item>Singapore</item>
-        <item>New Zealand</item>
-        <item>India</item>
+        <item>Copley</item>
+        <item>Boylston</item>
+        <item>Atlantic</item>
+        <item>Sunset</item>
+        <item>Rodeo</item>
+        <item>Bedford</item>
+        <item>Bourbon</item>
+        <item>The Library</item>
+        <item>Broadway</item>
+        <item>Pike</item>
+        <item>Market</item>
+        <item>Filmore</item>
+        <item>Tremont</item>
+        <item>Capri</item>
+        <item>Beale</item>
+        <item>Lombard</item>
+        <item>Bleeker</item>
+        <item>Oak</item>
+        <item>Spring</item>
+        <item>Newbury</item>
+        <item>Peachtree</item>
+        <item>Mulholland</item>
+        <item>Ocean</item>
+        <item>Madison</item>
+        <item>Michigan</item>
+        <item>Greenwich</item>
+        <item>LakeShore</item>
+        <item>Charles</item>
     </string-array>
 </resources>
