@@ -3,33 +3,34 @@
     <string name="country_prompt">Choose a country</string>
 
     <string-array name="country_arrays">
-        <item>Copley</item>
-        <item>Boylston</item>
         <item>Atlantic</item>
-        <item>Sunset</item>
-        <item>Rodeo</item>
-        <item>Bedford</item>
-        <item>Bourbon</item>
-        <item>The Library</item>
-        <item>Broadway</item>
-        <item>Pike</item>
-        <item>Market</item>
-        <item>Filmore</item>
-        <item>Tremont</item>
-        <item>Capri</item>
         <item>Beale</item>
-        <item>Lombard</item>
+        <item>Bedford</item>
         <item>Bleeker</item>
-        <item>Oak</item>
-        <item>Spring</item>
-        <item>Newbury</item>
-        <item>Peachtree</item>
-        <item>Mulholland</item>
-        <item>Ocean</item>
-        <item>Madison</item>
-        <item>Michigan</item>
+        <item>Bourbon</item>
+        <item>Boylston</item>
+        <item>Broadway</item>
+        <item>Capri</item>
+        <item>Charles</item>
+        <item>Copley</item>
+        <item>Filmore</item>
         <item>Greenwich</item>
         <item>LakeShore</item>
-        <item>Charles</item>
+        <item>Lombard</item>
+        <item>Madison</item>
+        <item>Market</item>
+        <item>Michigan</item>
+        <item>Mulholland</item>
+        <item>Newbury</item>
+        <item>Oak</item>
+        <item>Ocean</item>
+        <item>Peachtree</item>
+        <item>Pike</item>
+        <item>Rodeo</item>
+        <item>Spring</item>
+        <item>Sunset</item>
+        <item>The Library</item>
+        <item>Tremont</item>
+
     </string-array>
 </resources>
